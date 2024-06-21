@@ -500,7 +500,7 @@ body.dark-theme{
 }
 
 .home__description{
-    text-align: center;
+    text-align: justify;
     color: var(--title-color);
     margin-bottom: 1.5rem;
 }
